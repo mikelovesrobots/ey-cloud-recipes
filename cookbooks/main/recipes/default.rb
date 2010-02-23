@@ -27,3 +27,5 @@ end
 
 #uncomment to run the ssmtp recipe
 #require_recipe "ssmtp"
+ 
+require_recipe "delayed_job"
